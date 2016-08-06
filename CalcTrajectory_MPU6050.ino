@@ -1,12 +1,3 @@
-/* Author = helscream (Omer Ikram ul Haq)
-Last edit date = 2014-10-08
-Website: http://hobbylogs.me.pn/?p=47
-Location: Pakistan
-Ver: 0.1 beta --- Start
-Ver: 0.2 beta --- Bug fixed for calculating "angle_y_accel" and "angle_x_accel" in "Gyro_header.ino" file
-*/
-
-
 #include <Wire.h>
 #include "gyro_accel.h"
 // Defining constants
